@@ -19,7 +19,8 @@ This task involved:
 *Cleaning the dataset for accurate analysis.
 *Performing EDA to identify patterns, trends, and relationships between variables.
 Visualizations in Power BI:
-To effectively analyze and represent data, I created the following visuals:
+To effectively analyze and represent data, 
+I created the following visuals:
 *Pie Charts
 *Column Charts
 *Donut Charts
